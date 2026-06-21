@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Stellar Furnace",
+  "universe": "STR · The Stellar Furnace (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Stellar Furnace:STR:ccf944⟧",
+  "carbon": "the-stellar-furnace.carbon.tiff (TIFF)",
+  "silicon": "the-stellar-furnace.silicon.png (PNG)",
+  "seal_sha256": "6d5d17f4ffb03cc977cd7943343c7c16d0eea2c998d5a4ae55f32751abbb910a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

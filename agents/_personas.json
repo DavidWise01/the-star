@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-plasma",
+    "name": "The Plasma",
+    "epithet": "matter, ionised · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Plasma:STR:185a43⟧"
+  },
+  {
+    "slug": "stellar-fusion",
+    "name": "Stellar Fusion",
+    "epithet": "light from the small · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Stellar Fusion:STR:3b28ea⟧"
+  },
+  {
+    "slug": "the-convection-cell",
+    "name": "The Convection Cell",
+    "epithet": "the boiling surface · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Convection Cell:STR:fa7af0⟧"
+  },
+  {
+    "slug": "the-corona",
+    "name": "The Corona",
+    "epithet": "the ragged crown · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Corona:STR:653ad6⟧"
+  },
+  {
+    "slug": "the-flare",
+    "name": "The Flare",
+    "epithet": "the leaping arc · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Flare:STR:4ec0e4⟧"
+  },
+  {
+    "slug": "the-stellar-furnace",
+    "name": "The Stellar Furnace",
+    "epithet": "the system's source · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Stellar Furnace:STR:ccf944⟧"
+  }
+]

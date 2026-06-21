@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Stellar Fusion",
+  "universe": "STR · Stellar Fusion (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦Stellar Fusion:STR:3b28ea⟧",
+  "carbon": "stellar-fusion.carbon.tiff (TIFF)",
+  "silicon": "stellar-fusion.silicon.png (PNG)",
+  "seal_sha256": "ee6cf826b23f68ebb5a345557c0140138e98e38dbf7dc909cf9baace38ac9e85",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

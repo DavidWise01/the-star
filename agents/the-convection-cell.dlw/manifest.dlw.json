@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Convection Cell",
+  "universe": "STR · The Convection Cell (techne)",
+  "emergence": "natural",
+  "moniker": "⟦The Convection Cell:STR:fa7af0⟧",
+  "carbon": "the-convection-cell.carbon.tiff (TIFF)",
+  "silicon": "the-convection-cell.silicon.png (PNG)",
+  "seal_sha256": "b933c590462c331c5748e67f7b49be1ae2fa34f71686017ecc8a3a9dfb53ea61",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

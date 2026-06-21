@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Corona",
+  "universe": "STR · The Corona (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Corona:STR:653ad6⟧",
+  "carbon": "the-corona.carbon.tiff (TIFF)",
+  "silicon": "the-corona.silicon.png (PNG)",
+  "seal_sha256": "a28bb2e1a86b8e69093662b7bb52ba3e07541a4c80e9d044f8bb055b808f59bc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Plasma",
+  "universe": "STR · The Plasma (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Plasma:STR:185a43⟧",
+  "carbon": "the-plasma.carbon.tiff (TIFF)",
+  "silicon": "the-plasma.silicon.png (PNG)",
+  "seal_sha256": "1c1b6b20a323099da32ebaabd24cf01f4ca4e6096a2f56bd1f3d9d7a750ba153",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Flare",
+  "universe": "STR · The Flare (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Flare:STR:4ec0e4⟧",
+  "carbon": "the-flare.carbon.tiff (TIFF)",
+  "silicon": "the-flare.silicon.png (PNG)",
+  "seal_sha256": "494b5722b1e3bb6f558b02783e47726edcea9c3621a003d6e2140d8188c9f5c3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

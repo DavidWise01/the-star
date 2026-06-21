@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE STAR",
+  "universe": "STR · THE STAR (techne · the art)",
+  "emergence": "",
+  "moniker": "⟦THE STAR:STR:05b00d⟧",
+  "carbon": "the-star.carbon.tiff (TIFF)",
+  "silicon": "the-star.silicon.png (PNG)",
+  "seal_sha256": "8f1a7316064ddc5d69311a3f5f173f9bd475acb7f229a9f6c7d11fbbb7f937f9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
